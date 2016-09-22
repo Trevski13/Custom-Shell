@@ -1,0 +1,2 @@
+Redirecting input from test2.txt
+hello
